@@ -1,0 +1,64 @@
+﻿@model ErrorViewModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hola Mundo ASP.NET Core MVC</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<p>@ViewBag.Mensaje</p>
+<p>@ViewData["Mensaje2"]</p>
+
+<p>Precio: @ViewBag.Precio</p>
+
+<p>Precio2: @ViewData["Precio2"]</p>
+
+@*Haciendo Operaciones*@
+
+<p>Precio: @(Convert.ToDecimal(ViewBag.Precio) * 2)</p>
+
+<p>Precio2: @(((decimal)ViewData["Precio2"]) * 2)</p>
+
+
+<p>Fecha1: @ViewBag.Fecha</p>  
+<p>Fecha2: @ViewData["Fecha2"]</p>
+
+@*Le agregamos un dia a las Fechas*@
+
+
+<p>Fecha1: @ViewBag.Fecha.AddDays(1)</p>
+<p>Fecha2: @(Convert.ToDateTime(ViewData["Fecha2"]).AddDays(1)) </p>
+
+
+
+ @* @for (int i = 0; i < ViewBag.Contador; i++)
+{
+    <li> item @i </li>
+    @if (i==9)
+    {
+        <p>correo@(i)gmail.com</p>
+    }
+    
+} *@
+
+
+@* @for (int i = 0; i < (int)ViewData["Contador2"]; i++)
+{
+    <li> item @i </li>
+    @if (i == 9)
+    {
+        <p>correo@(i)gmail.com</p>
+    }
+
+}
+ *@
+
+
+
+<p>@DateTime.Now</p>
+@* <p>@Model.RequestId</p>
+<p>@Model.ShowRequestId</p> *@

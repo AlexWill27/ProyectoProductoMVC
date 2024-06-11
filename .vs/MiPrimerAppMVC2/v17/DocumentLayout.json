@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\MiPrimerAppMVC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\data\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\data\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\data\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\data\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\data\\repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\data\\repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\miprimerappmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\miprimerappmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\producto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\producto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\home\\vistademo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\home\\vistademo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|d:\\visualstudio\\miprimerappmvc2\\miprimerappmvc2\\views\\shared\\_vistaparcialdemocshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49BB433-3522-4062-BFE6-EC65713F4047}|MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj|solutionrelative:miprimerappmvc2\\views\\shared\\_vistaparcialdemocshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAG4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:58:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Program.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Program.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:48:50.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosContext.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\ProductosContext.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Data\\ProductosContext.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\ProductosContext.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Data\\ProductosContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:30:32.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T03:55:48.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:04:12.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:05:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:28:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\Repository\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Data\\Repository\\ProductoRepository.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\Repository\\ProductoRepository.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Data\\Repository\\ProductoRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:10:01.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\Repository\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Data\\Repository\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Data\\Repository\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Data\\Repository\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:12:22.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Models\\Producto.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Models\\Producto.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Models\\Producto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:51:28.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:02:58.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Models\\Usuario.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Models\\Usuario.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:53:51.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiPrimerAppMVC2.csproj",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj",
+              "RelativeToolTip": "MiPrimerAppMVC2\\MiPrimerAppMVC2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T16:29:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:09:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Producto\\Inicio.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Producto\\Inicio.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Producto\\Inicio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:38:58.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T04:31:23.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VistaDemo.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Home\\VistaDemo.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Home\\VistaDemo.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Home\\VistaDemo.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Home\\VistaDemo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T21:25:23.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_VistaParcialDemocshtml.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Shared\\_VistaParcialDemocshtml.cshtml",
+              "RelativeDocumentMoniker": "MiPrimerAppMVC2\\Views\\Shared\\_VistaParcialDemocshtml.cshtml",
+              "ToolTip": "D:\\VisualStudio\\MiPrimerAppMVC2\\MiPrimerAppMVC2\\Views\\Shared\\_VistaParcialDemocshtml.cshtml",
+              "RelativeToolTip": "MiPrimerAppMVC2\\Views\\Shared\\_VistaParcialDemocshtml.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T21:43:03.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

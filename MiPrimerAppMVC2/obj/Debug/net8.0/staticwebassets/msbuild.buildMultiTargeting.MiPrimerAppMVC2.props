@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiPrimerAppMVC2.props" />
+</Project>
